@@ -3,4 +3,5 @@ Brief coding practice;
   -Designed to hanmdle HTTP GET request from http://localhost:8080/greeting, returning designed JSON messege.
 
 http://localhost:8080/greeting?name=John
+
 {"id":4,"content":"Hello, John!"}
